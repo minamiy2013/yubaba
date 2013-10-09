@@ -1,0 +1,16 @@
+﻿各ファイル説明
+	PDO_DB.php
+		データベース利用時の関数
+		DBConfig.phpを読み込む
+	DBConfig.php
+		データベースの設定
+		サーバー名、データベース名、ユーザー名、パスワードを定義
+	define.php
+		主にエラーチェックに使用する定数
+	check.php
+		エラーチェック関数
+	check_error.php
+		エラーメッセージ作成関数
+		define.phpとcheck.phpを読み込む
+	common.php
+		共通処理

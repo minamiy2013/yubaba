@@ -1,0 +1,45 @@
+﻿@charset "UTF-8";
+
+div#wrap {
+	width: 640px;
+	margin:0 auto;
+	border:1px solid;
+}
+
+div.contents{
+	width:;
+	border:solid 1px;
+}
+h1{
+	border:1px solid;
+	width:320px;
+	margin:20px auto;
+	text-align:center;
+}
+
+input.date {
+	width:8em;
+	text-align:right;
+}
+
+input.caption{
+	
+}
+
+textarea.comment{
+	
+}
+
+input.url{
+	
+}
+
+input.row{
+	width:3em;
+	text-align:right;
+}
+
+input.id{
+	width:2em;
+	text-align:right;
+}
